@@ -65,6 +65,20 @@ Binary Search:
 Element found at index 3
 ```
 
+#Worst-Case for Binary Search
+
+If searching in an array of size n = 8:
+ 
+[1, 3, 5, 7, 9, 11, 13, 15] 
+Target: 2 (not in the list)
+Binary search will go through:
+ 
+Midpoint: 7
+Midpoint: 3
+Midpoint: 1
+Not found.
+Total comparisons: log_2(8) = 3, showing O(log n) complexity.
+ 
 ## Prerequisites
 
 - Python 3.x
