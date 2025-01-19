@@ -65,7 +65,7 @@ Binary Search:
 Element found at index 3
 ```
 
-#Worst-Case for Binary Search
+## Worst-Case for Binary Search
 
 If searching in an array of size n = 8:
  
@@ -95,6 +95,12 @@ Total comparisons: log_2(8) = 3, showing O(log n) complexity.
    ```bash
    python search_algorithms.py
    ```
+
+## linked in post link
+
+https://www.linkedin.com/posts/hasham-ali-noor-151672347_github-hasham000binary-and-linear-activity-7286698102218997760-SVe_?utm_source=share&utm_medium=member_ios
+
+
 
 ## License
 
